@@ -1,6 +1,6 @@
-# CS6910-Assignment-2 : Convolutional Neural Networks
-Assignment 2 submission for the course CS6910 Fundamentals of Deep Learning. <br>
-Check this link for the task description: [Assignment link](https://wandb.ai/miteshk/assignments/reports/Assignment-2--Vmlldzo0NjA1MTU)
+# Convolutional Neural Networks
+Course project submission for the course CS6910: Fundamentals of Deep Learning. <br>
+Check this link for the task description: [Problem statement link](https://wandb.ai/miteshk/assignments/reports/Assignment-2--Vmlldzo0NjA1MTU)
 
 
 Team Members : **Vamsi Sai Krishna Malineni (OE20S302)**, **Mohammed Safi Ur Rahman Khan (CS21M035)** 
@@ -12,7 +12,7 @@ Team Members : **Vamsi Sai Krishna Malineni (OE20S302)**, **Mohammed Safi Ur Rah
 ```python 
 pip install -r requirements.txt
 ```
-2. The solution to the assignment is divided into two parts: `PART A` and `PART B`. You can find the juypter notebooks in the respective folders. Along with jupyter notebooks we have also given python code filed (.py) files. These contain the code to direclty train and test the CNN in a non interactive way.
+2. The project is divided into two parts: `PART A` and `PART B`. You can find the juypter notebooks in the respective folders. Along with jupyter notebooks we have also given python code filed (.py) files. These contain the code to direclty train and test the CNN in a non interactive way.
 
 3. For seeing the outputs and the various explanations, and how the code has developed, please check the jupyter notebooks (i.e., .ipynb files for both part A and part B). For training and testing the CNN model from command line, run the (.py) file by following the instructions given in below sections.
 
@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```python
 !pip install wandb
 ```
-5. The dataset for this assignment can be found at : [Dataset Link](https://storage.googleapis.com/wandb_datasets/nature_12K.zip)
+5. The dataset for this project can be found at : [Dataset Link](https://storage.googleapis.com/wandb_datasets/nature_12K.zip)
 ---
 # PART A : Training from Scratch
 ## Running the code
